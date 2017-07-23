@@ -1,0 +1,14 @@
+{
+  "name": "throw-me-money-ws",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Francisco Magalhães",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "ws": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
